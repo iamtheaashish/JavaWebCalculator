@@ -7,7 +7,7 @@
       <style>
             :root {
                   color-scheme: light;
-                  --bg: #0f172a;
+                  --bg: #0d1d42;
                   --card: #111827;
                   --text: #e2e8f0;
                   --muted: #94a3b8;
